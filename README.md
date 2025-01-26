@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Tcl procedure that incorrectly compares strings.  The `badproc` procedure uses `==` for string comparison, which can lead to unexpected results. The solution demonstrates the correct usage of `string compare` for robust string comparisons.
